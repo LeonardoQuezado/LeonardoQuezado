@@ -41,7 +41,7 @@ President of the Computer Science Academic Center Gracy Hopper
 
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
-
+<br>
 <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LoliPrivatier&theme=midnight-purple&show_icons=true)
@@ -55,4 +55,3 @@ I’m currently working on this page.
 [website]: https://loliprivatier.github.io/
 [instagram]: https://www.instagram.com/leonardoquezado/
 [linkedin]: https://www.linkedin.com/in/loliprivatier/
-
