@@ -48,6 +48,11 @@ President of the Computer Science Academic Center Gracy Hopper
 
 <br>
 
+<br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LoliPrivatier&layout=compact&theme=midnight-purple)
+<br>
+
 I’m currently working on this page. 
 
 </details>
