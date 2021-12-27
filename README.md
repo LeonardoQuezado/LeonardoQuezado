@@ -4,6 +4,10 @@ Computer Science student at the University of Fortaleza (UniFor)
 
 President of the Computer Science Academic Center Gracy Hopper
 
+
+
+Intern in Systems Maintainer on Regional Labor Court - DSTIC
+
 ### Connect with me:
 
 [<img align="left" alt="https://loliprivatier.github.io/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
