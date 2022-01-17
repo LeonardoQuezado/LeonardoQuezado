@@ -48,13 +48,13 @@ Intern in Systems Maintainer on Regional Labor Court - DSTIC
 <br>
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LoliPrivatier&theme=midnight-purple&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardoquezado&theme=midnight-purple&show_icons=true)
 
 <br>
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LoliPrivatier&layout=compact&theme=midnight-purple)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoquezado&layout=compact&theme=midnight-purple)
 <br>
 
 I’m currently working on this page. 
