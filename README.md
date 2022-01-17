@@ -61,6 +61,6 @@ I’m currently working on this page.
 
 </details>
 
-[website]: https://loliprivatier.github.io/
+[website]: https://leonardoquezado.github.io/
 [instagram]: https://www.instagram.com/leonardoquezado/
 [linkedin]: https://www.linkedin.com/in/loliprivatier/
