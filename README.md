@@ -1,9 +1,9 @@
-### Oi 👋, me chamo Leonardo Quezado
+### Oi , me chamo Leonardo Quezado
 
-🎓 Mestrando em Ciência da Computação (MDCC) na Universidade Federal do Ceará (UFC)
-🔬 Pesquisador visitante no Tech3Lab — HEC Montréal
-♿ Pesquiso avaliação automatizada de acessibilidade em interfaces Android geradas por LLMs
-🤖 Trabalho com IA/ML, LLMs e sistemas RAG
+ Mestrando em Ciência da Computação (MDCC) na Universidade Federal do Ceará (UFC)
+ Pesquisador visitante no Tech3Lab — HEC Montréal
+ Pesquiso avaliação automatizada de acessibilidade em interfaces Android geradas por LLMs
+ Trabalho com IA/ML, LLMs e sistemas RAG
 
 ### Contato:
 
